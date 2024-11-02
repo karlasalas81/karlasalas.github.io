@@ -13,7 +13,7 @@
     position: fixed;
     top: 0;
     background: white;
-    height: 60px;
+    height: 40px;
 }
 
 .menuButton {
@@ -21,11 +21,16 @@
 }
 
 .Content {
-    height: 100vh;
+    padding-top: 60px;
+    margin-top:60px;
     background: pink;
 }
 
 .Footer {
     height: 300px;
     background: black;
+}
+
+.contentSection {
+ height: 100vh;
 }
